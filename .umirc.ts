@@ -48,7 +48,7 @@ export default defineConfig({
     },
   ],
   hash: true,
-  dynamicImport: {},
+//   dynamicImport: {},
   ssr: {},
   exportStatic: {},
   metas: [
